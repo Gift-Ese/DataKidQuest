@@ -1,0 +1,6 @@
+{
+  "name": "DataKidQuest",
+  "description": "Multilingual AI and data annotation learning platform for African children by MLQuest Africa. Learn, annotate, review data quality, and teach AI.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
